@@ -1,0 +1,44 @@
+table {
+    color: rgb(15, 136, 145);
+
+}
+
+h2 {
+    color: darkred;
+}
+
+#boton1{
+    padding: 0 20px 20px 20px;
+    background-color: lightskyblue;
+    color: black;
+    text-shadow: 3px 3px 1px black;
+    font-size: 24px;
+    border-radius: 0.8em;
+}
+#boton1:hover{
+    padding: 0 20px 20px 20px;
+    background-color: rgb(24, 142, 158);
+    color: white;
+    text-shadow: 3px 3px 1px black;
+    font-size: 24px;
+    border-radius: 0.5em;
+}
+
+#portada{
+    border-radius: 0.8em;
+    background: linear-gradient(80deg, rgb(68, 108, 168) 20%, rgb(212, 221, 235));
+     }
+
+#portada2{
+    border-radius: 0.8em;
+    background: linear-gradient(80deg, #e0fff6 20%, rgb(64, 108, 116));
+}
+#concepto{
+    border-radius: 0.8em;
+    background: linear-gradient(80deg, rgb(212, 220, 221) 40%, rgb(73, 128, 146));
+}
+
+#estructura{
+    border-radius: 0.8em;
+    background: linear-gradient(70deg, rgb(191, 214, 218) 60%, rgb(73, 128, 146));
+}
